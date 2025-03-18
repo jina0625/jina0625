@@ -6,7 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Welcome to My GitHub!
+방문해 주셔서 감사합니다! 😊  
+📖 블로그: [Tistory](https://jina0625.tistory.com/)  
+
 <!---
 jina0625/jina0625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
