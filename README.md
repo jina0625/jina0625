@@ -1,7 +1,8 @@
 # Hello, World!
-(여기에 자기소개 추가)
 
-## 📌 최근 블로그 글
+
+## 📌 최근 블로그 글 
+블로그 링크 : https://jina0625.tistory.com/
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 소프트웨어 개발 보안 구현](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%ED%98%84) - 2025-03-17
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 소프트웨어 개발 보안 설계](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EC%84%A4%EA%B3%84) - 2025-03-17
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 보안 요소 및 보안 공격](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EB%B3%B4%EC%95%88-%EC%9A%94%EC%86%8C-%EB%B0%8F-%EB%B3%B4%EC%95%88-%EA%B3%B5%EA%B2%A9) - 2025-03-13
