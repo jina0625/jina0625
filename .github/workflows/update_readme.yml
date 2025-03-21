@@ -40,4 +40,4 @@ jobs:
           git commit -m "Update README with latest blog posts" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub 인증을 위한 토큰 사용
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # GitHub 인증을 위한 토큰 사용
