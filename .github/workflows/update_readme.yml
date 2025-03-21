@@ -2,30 +2,42 @@ name: Update README with Tistory RSS
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 한국 시간 기준 매일 00:00 (UTC 15:00)
-  workflow_dispatch:  # 필요시 수동 실행 가능
+    - cron: "0 15 * * *"  # 매일 00:00 KST (GitHub Actions는 UTC 기준이므로 15시로 설정)
+  workflow_dispatch:  # 수동 실행 가능
+
+permissions:
+  contents: write  # ✅ 저장소에 변경 사항을 반영할 수 있도록 권한 부여
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 저장소 체크아웃
+      - name: Checkout Repository
         uses: actions/checkout@v3
-
-      - name: Python 환경 설정
-        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # 최신 Python 버전 사용
+          persist-credentials: false  # ✅ GitHub Actions에서 인증 정보 저장 안 함
 
-      - name: RSS 피드 업데이트 실행
-        run: |
-          pip install feedparser
-          python fetch_rss.py
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'  # 최신 Python 사용
 
-      - name: 변경 사항 확인 및 커밋
+      - name: Install Dependencies
+        run: pip install feedparser
+
+      - name: Run Python Script
+        run: python main.py  # 또는 fetch_rss.py 실행
+
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        run: |
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update README with latest blog posts" && git push)
+          git commit -m "Update README with latest blog posts" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub 인증을 위해 필요
