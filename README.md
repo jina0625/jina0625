@@ -1,8 +1,11 @@
 # Hello, World!
+(여기에 자기소개 추가)
 
-
-## 📌 최근 블로그 글 
-블로그 링크 : https://jina0625.tistory.com/
+## 📌 최근 블로그 글
+- [[정보처리기사 실기] 프로그래밍 언어 활용 _ 배열, 포인터](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9-%EB%B0%B0%EC%97%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0) - 2025-03-24
+- [[정보처리기사 실기] 프로그래밍 언어 활용 _ 반복문, 함수](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8-%ED%95%A8%EC%88%98) - 2025-03-20
+- [[정보처리기사 실기] 프로그래밍 언어 활용 _ 입출력문, 조건문](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9-%EC%9E%85%EC%B6%9C%EB%A0%A5%EB%AC%B8-%EC%A1%B0%EA%B1%B4%EB%AC%B8) - 2025-03-19
+- [[정보처리기사 실기] 프로그래밍 언어 활용 _ 데이터 타입, 연산자](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%96%B8%EC%96%B4-%ED%99%9C%EC%9A%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90) - 2025-03-19
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 소프트웨어 개발 보안 구현](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%ED%98%84) - 2025-03-17
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 소프트웨어 개발 보안 설계](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EC%84%A4%EA%B3%84) - 2025-03-17
 - [[정보처리기사 실기] 소프트웨어 개발 보안 구축 _ 보안 요소 및 보안 공격](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%EB%B3%B4%EC%95%88-%EA%B5%AC%EC%B6%95-%EB%B3%B4%EC%95%88-%EC%9A%94%EC%86%8C-%EB%B0%8F-%EB%B3%B4%EC%95%88-%EA%B3%B5%EA%B2%A9) - 2025-03-13
@@ -49,7 +52,3 @@
 - [프로그래머스 Lv.0 [PCCE 기출문제] 5번 / 산책 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv0-PCCE-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-5%EB%B2%88-%EC%82%B0%EC%B1%85-Python) - 2024-06-21
 - [프로그래머스 Lv.0 [PCCE 기출문제] 4번 / 저축 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv0-PCCE-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-4%EB%B2%88-%EC%A0%80%EC%B6%95-Python) - 2024-06-21
 - [프로그래머스 Lv.0 [PCCE 기출문제] 3번 / 나이 계산 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv0-PCCE-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-3%EB%B2%88-%EB%82%98%EC%9D%B4-%EA%B3%84%EC%82%B0-Python) - 2024-06-21
-- [프로그래머스 Lv.0 [PCCE 기출문제] 2번 / 피타고라스의 정리 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv0-PCCE-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-2%EB%B2%88-%ED%94%BC%ED%83%80%EA%B3%A0%EB%9D%BC%EC%8A%A4%EC%9D%98-%EC%A0%95%EB%A6%AC-Python) - 2024-06-21
-- [프로그래머스 Lv.0 [PCCE 기출문제] 1번 / 출력 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Lv0-PCCE-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-1%EB%B2%88-%EC%B6%9C%EB%A0%A5-Python) - 2024-06-21
-- [[코딩 기초 용어 정리] 예외처리, 프로세스, 스레드](https://jina0625.tistory.com/entry/%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%8A%A4%EB%A0%88%EB%93%9C) - 2024-05-24
-- [[코딩 기초 용어 정리] 서버, 쿠키, 세션, 캐시 등](https://jina0625.tistory.com/entry/%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%84%9C%EB%B2%84-%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%EC%BA%90%EC%8B%9C-%EB%93%B1) - 2024-05-23
