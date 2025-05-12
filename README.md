@@ -2,6 +2,9 @@
 (여기에 자기소개 추가)
 
 ## 📌 최근 블로그 글
+- [[SQLD] 핵심요약 (3)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-3) - 2025-05-12
+- [[SQLD] 핵심요약 (2)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-2) - 2025-05-12
+- [[SQLD] 핵심요약 (1)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-1) - 2025-05-12
 - [Eclipse 인코딩 문제 해결](https://jina0625.tistory.com/entry/Eclipse-%EC%9D%B8%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0) - 2025-05-08
 - [[방송통신대학교 _ 컴퓨터과학과] 생활과건강 _ 신체건강 문제와 관리(1) _ 소화기계 건강문제](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%83%9D%ED%99%9C%EA%B3%BC%EA%B1%B4%EA%B0%95-%EC%8B%A0%EC%B2%B4%EA%B1%B4%EA%B0%95-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B4%80%EB%A6%AC1-%EC%86%8C%ED%99%94%EA%B8%B0%EA%B3%84-%EA%B1%B4%EA%B0%95%EB%AC%B8%EC%A0%9C) - 2025-03-25
 - [[방송통신대학교 _ 컴퓨터과학과] 생활과건강 _ 신체건강 문제와 관리(1) _ 심뇌혈관계 건강문제](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%83%9D%ED%99%9C%EA%B3%BC%EA%B1%B4%EA%B0%95-%EC%8B%A0%EC%B2%B4%EA%B1%B4%EA%B0%95-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B4%80%EB%A6%AC1-%EC%8B%AC%EB%87%8C%ED%98%88%EA%B4%80%EA%B3%84-%EA%B1%B4%EA%B0%95%EB%AC%B8%EC%A0%9C) - 2025-03-25
@@ -49,6 +52,3 @@
 - [프로그래머스 _ 코딩테스트 입문 _ 숫자 비교하기 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EC%88%AB%EC%9E%90-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-Python) - 2024-06-23
 - [프로그래머스 _ 코딩테스트 입문 _ 두 수의 나눗셈 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%EB%82%98%EB%88%97%EC%85%88-Python) - 2024-06-23
 - [프로그래머스 _ 코딩테스트 입문 _ 몫 구하기 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%AA%AB-%EA%B5%AC%ED%95%98%EA%B8%B0-Python) - 2024-06-23
-- [프로그래머스 _ 코딩테스트 입문 _ 두 수의 곱 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%EA%B3%B1-Python) - 2024-06-23
-- [프로그래머스 _ 코딩테스트 입문 _ 두 수의 차 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%EC%B0%A8-Python) - 2024-06-23
-- [프로그래머스 _ 코딩테스트 입문 _ 두 수의 합 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%ED%95%A9-Python) - 2024-06-23
