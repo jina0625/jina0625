@@ -2,6 +2,7 @@
 (여기에 자기소개 추가)
 
 ## 📌 최근 블로그 글
+- [[JAVA] 음료 자판기 프로그램 작성하기](https://jina0625.tistory.com/entry/JAVA-%EC%9D%8C%EB%A3%8C-%EC%9E%90%ED%8C%90%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0) - 2025-05-13
 - [[SQLD] 핵심요약 (3)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-3) - 2025-05-12
 - [[SQLD] 핵심요약 (2)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-2) - 2025-05-12
 - [[SQLD] 핵심요약 (1)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-1) - 2025-05-12
@@ -51,4 +52,3 @@
 - [자바 프로그램 실행 과정](https://jina0625.tistory.com/entry/%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89-%EA%B3%BC%EC%A0%95) - 2025-01-16
 - [프로그래머스 _ 코딩테스트 입문 _ 숫자 비교하기 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EC%88%AB%EC%9E%90-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-Python) - 2024-06-23
 - [프로그래머스 _ 코딩테스트 입문 _ 두 수의 나눗셈 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%EB%82%98%EB%88%97%EC%85%88-Python) - 2024-06-23
-- [프로그래머스 _ 코딩테스트 입문 _ 몫 구하기 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%AA%AB-%EA%B5%AC%ED%95%98%EA%B8%B0-Python) - 2024-06-23
