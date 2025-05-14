@@ -14,19 +14,17 @@ markdown_text = """# Hello, World!
 ## 📌 Recent Blog Posts
 """  # 블로그 글 목록이 여기에 추가됨
 
-# 🔹 RSS에서 최신 글 목록 가져오기
-for i in feed['entries']:
-    # 날짜 변환 (티스토리 RSS의 날짜 포맷을 변환)
+# 🔹 최신 글 10개만 가져오기
+for i in feed['entries'][:10]:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
-    
-    # Markdown에 추가
     markdown_text += f"- [{i['title']}]({i['link']}) - {dt}\n"
 
-    # 콘솔 출력
-    print(i['link'], i['title'])
+# 🔹 오늘 날짜 기록 추가 (잔디를 위한 변경 유도)
+today = datetime.datetime.now().strftime("%Y-%m-%d")
+markdown_text += f"\n\n_Last updated: {today}_\n"
 
 # 🔹 README.md 파일 업데이트
 with open("README.md", mode="w", encoding="utf-8") as f:
     f.write(markdown_text)
 
-print("✅ README.md 파일이 성공적으로 업데이트되었습니다!")
+print("✅ README.md가 성공적으로 업데이트되었습니다!")
