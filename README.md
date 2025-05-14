@@ -2,6 +2,7 @@
 (여기에 자기소개 추가)
 
 ## 📌 최근 블로그 글
+- [[SQLD] SQLD 1과목 데이터 모델링의 이해 (1)](https://jina0625.tistory.com/entry/SQLD-SQLD-1%EA%B3%BC%EB%AA%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9D%98-%EC%9D%B4%ED%95%B4-1) - 2025-05-14
 - [[JAVA] 음료 자판기 프로그램 작성하기](https://jina0625.tistory.com/entry/JAVA-%EC%9D%8C%EB%A3%8C-%EC%9E%90%ED%8C%90%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0) - 2025-05-13
 - [[SQLD] 핵심요약 (3)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-3) - 2025-05-12
 - [[SQLD] 핵심요약 (2)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-2) - 2025-05-12
@@ -51,4 +52,3 @@
 - [[정보처리기사 실기] 1장 요구사항 확인 _ 소프트웨어 생명주기 (SDLC) 모형](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-1%EC%9E%A5-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%ED%99%95%EC%9D%B8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-SDLC-%EB%AA%A8%ED%98%95) - 2025-01-21
 - [자바 프로그램 실행 과정](https://jina0625.tistory.com/entry/%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89-%EA%B3%BC%EC%A0%95) - 2025-01-16
 - [프로그래머스 _ 코딩테스트 입문 _ 숫자 비교하기 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EC%88%AB%EC%9E%90-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-Python) - 2024-06-23
-- [프로그래머스 _ 코딩테스트 입문 _ 두 수의 나눗셈 _ Python](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EB%91%90-%EC%88%98%EC%9D%98-%EB%82%98%EB%88%97%EC%85%88-Python) - 2024-06-23
