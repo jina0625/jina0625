@@ -38,7 +38,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add README.md
-          git commit -m "Update README with latest blog posts" || echo "No changes to commit"
+           git commit -m "📅 Update README on $(date '+%Y-%m-%d')" || echo "No changes to commit"
           git push origin main  # 브랜치 명시
 
         env:
