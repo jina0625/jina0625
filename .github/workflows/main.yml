@@ -2,15 +2,16 @@ name: README Updater
 
 on:
   push:
-    branches: [ main ]  # GitHub 기본 브랜치 설정 (master → main)
+    branches: [ main ]
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: "0 9 * * *"  # 매일 오전 9시 (UTC 기준)
+    - cron: "0 0 * * *"  # 매일 자정 (UTC) → 한국 시간 오전 9시
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -27,9 +28,11 @@ jobs:
 
     - name: Update README
       run: |
-        python main.py  # README 업데이트를 수행하는 main.py 실행
+        python main.py
 
-    - name: Commit README
+    - name: Commit & Push changes
       run: |
+        git config --local user.email "wlsdk6395@gmail.com"
+        git config --local user.name "jina0625"
         git add README.md
-        git diff --quiet
+        git diff --quiet || (git commit -m "Update README.md from Tistory RSS" && git push)
