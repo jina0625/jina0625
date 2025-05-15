@@ -32,7 +32,7 @@ jobs:
 
     - name: Commit & Push changes
       run: |
-        git config --local user.email "wlsdk6395@gmail.com"
+        git config --local user.email "wlsdk6395@naver.com"
         git config --local user.name "jina0625"
         git add README.md
         git diff --quiet || (git commit -m "Update README.md from Tistory RSS" && git push)
