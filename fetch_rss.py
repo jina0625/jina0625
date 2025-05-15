@@ -19,9 +19,8 @@ for i in feed['entries'][:10]:
     dt = datetime.datetime.strptime(i['published'], "%a, %d %b %Y %H:%M:%S %z").strftime("%Y-%m-%d")
     markdown_text += f"- [{i['title']}]({i['link']}) - {dt}\n"
 
-# 🔹 오늘 날짜 기록 추가 (잔디를 위한 변경 유도)
-today = datetime.datetime.now().strftime("%Y-%m-%d")
-markdown_text += f"\n\n_Last updated: {today}_\n"
+now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+markdown_text += f"\n\n_Last updated: {now}_\n"
 
 # 🔹 README.md 파일 업데이트
 with open("README.md", mode="w", encoding="utf-8") as f:
