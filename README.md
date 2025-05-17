@@ -14,4 +14,4 @@
 - [[방송통신대학교 _ 컴퓨터과학과] 생활과건강 _ 신체건강 문제와 관리(1) _ 심뇌혈관계 건강문제](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%83%9D%ED%99%9C%EA%B3%BC%EA%B1%B4%EA%B0%95-%EC%8B%A0%EC%B2%B4%EA%B1%B4%EA%B0%95-%EB%AC%B8%EC%A0%9C%EC%99%80-%EA%B4%80%EB%A6%AC1-%EC%8B%AC%EB%87%8C%ED%98%88%EA%B4%80%EA%B3%84-%EA%B1%B4%EA%B0%95%EB%AC%B8%EC%A0%9C) - 2025-03-25
 
 
-_Last updated: 2025-05-16 15:17:48_
+_Last updated: 2025-05-17 15:17:16_
