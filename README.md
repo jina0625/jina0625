@@ -1,5 +1,5 @@
 # Hello, World!
-(자기소개를 여기에 작성하세요)
+
 
 ## 📌 Recent Blog Posts
 - [[SQLD] SQLD 2과목 SQL 기본 및 활용(1)](https://jina0625.tistory.com/entry/SQLD-SQLD-2%EA%B3%BC%EB%AA%A9-SQL-%EA%B8%B0%EB%B3%B8-%EB%B0%8F-%ED%99%9C%EC%9A%A91) - 2025-05-16
