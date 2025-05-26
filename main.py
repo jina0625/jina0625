@@ -9,7 +9,7 @@ feed = feedparser.parse(TISTORY_BLOG_URL)
 
 # 🔍 로그로 RSS 데이터 확인
 print("📥 feed.entries =")
-print(feed.entries)  # GitHub Actions에서 확인 가능
+print(feed.entries)
 
 # ✅ README.md 기본 텍스트 시작
 markdown_text = """# Hello, World!
