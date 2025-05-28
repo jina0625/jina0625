@@ -31,4 +31,8 @@ jobs:
           git config --local user.email "155883395+jina0625@users.noreply.github.com"
           git config --local user.name "jina0625"
           git add README.md
-          git diff --quiet || (git commit -m "📌 Update README from Tistory RSS" && git push)
+          git diff --quiet || (
+            COMMIT_DATE=$(date +'%Y-%m-%d')
+            git commit -m "Update README on $COMMIT_DATE"
+            git push
+          )
