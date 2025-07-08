@@ -20,7 +20,7 @@ markdown_text = """# Hello, World!
 
 # ✅ 최신 블로그 글 10개 추가
 for entry in feed.entries[:10]:
-    published_date = datetime.datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %z")
+    published_date = datetime.datetime(*entry.published_parsed[:6])published_date = datetime.datetime(*entry.published_parsed[:6])
     formatted_date = published_date.strftime("%Y-%m-%d")
     markdown_text += f"- [{entry.title}]({entry.link}) - {formatted_date}\n"
 
