@@ -1,0 +1,39 @@
+# .github/workflows/main.yml
+name: Tistory Blog Updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 매일 자정 (UTC 기준)
+  workflow_dispatch:      # 수동 실행도 가능
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser
+
+      - name: Run update script
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "155883395+jina0625@users.noreply.github.com"
+          git config --local user.name "jina0625"
+          git add README.md
+          git diff --quiet || (
+            git commit -m "📝 Update README with latest blog posts"
+            git push
+          )
