@@ -7,6 +7,9 @@ TISTORY_RSS_URL = "https://jina0625.tistory.com/rss"  # 본인 블로그 주소�
 # ✅ 2. RSS 피드 가져오기
 feed = feedparser.parse(TISTORY_RSS_URL)
 
+# 디버깅: RSS 글 개수 출력
+print(f"총 글 개수: {len(feed.entries)}")
+
 # ✅ 3. README.md 초기 텍스트
 markdown = """# 👋 Hello, World!
 여기에 간단한 자기소개를 작성할 수 있어요.
@@ -23,6 +26,9 @@ for entry in feed.entries[:10]:
         print(f"❌ 날짜 파싱 오류: {e}")
         formatted_date = "Unknown"
 
+    # 디버깅: 글 제목 출력
+    print(f"글 제목: {entry.title}")
+
     markdown += f"- [{entry.title}]({entry.link}) - {formatted_date}\n"
 
 # ✅ 5. 마지막 업데이트 시간 추가
@@ -31,6 +37,10 @@ markdown += f"\n\n_Last updated: {updated}_"
 
 # ✅ 6. 강제로 커밋 유도용 줄 추가 (변경 감지 위해)
 markdown += "\n\n<!-- force update line -->"
+
+# 디버깅: 최종 생성된 마크다운 미리보기 (앞부분 300자 출력)
+print(f"\n\n--- 생성된 README.md 미리보기 ---\n{markdown[:300]}...\n")
+
 # ✅ 7. README.md 파일 쓰기
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(markdown)
