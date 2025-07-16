@@ -31,7 +31,6 @@ markdown += f"\n\n_Last updated: {updated}_"
 
 # ✅ 6. 강제로 커밋 유도용 줄 추가 (변경 감지 위해)
 markdown += "\n\n<!-- force update line -->"
-
 # ✅ 7. README.md 파일 쓰기
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(markdown)
