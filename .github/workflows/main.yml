@@ -33,9 +33,15 @@ jobs:
           git config --local user.email "155883395+jina0625@users.noreply.github.com"
           git config --local user.name "jina0625"
           git add README.md
+
+          echo "=== git status ==="
+          git status
+
+          echo "=== git diff ==="
+          git diff
+
           git diff --quiet || (
             git commit -m "📝 Update README with latest blog posts"
             git push
           )
 
-#워크 플로우 재실행용 주석
