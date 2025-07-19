@@ -14,6 +14,6 @@
 - [[SQLD] 핵심요약 (3)](https://jina0625.tistory.com/entry/SQLD-%ED%95%B5%EC%8B%AC%EC%9A%94%EC%95%BD-3) - 2025-05-12
 
 
-_Last updated: 2025-07-18 02:21:14_
+_Last updated: 2025-07-19 02:09:17_
 
 <!-- force update line -->
