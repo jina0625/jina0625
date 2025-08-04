@@ -14,6 +14,6 @@
 - [[JAVA] 런타임 데이터 영역의 구조](https://jina0625.tistory.com/entry/JAVA-%EB%9F%B0%ED%83%80%EC%9E%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EC%97%AD%EC%9D%98-%EA%B5%AC%EC%A1%B0) - 2025-07-07
 
 
-_Last updated: 2025-08-03 15:12:39_
+_Last updated: 2025-08-04 15:14:49_
 
 <!-- force update line -->
