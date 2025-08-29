@@ -14,6 +14,6 @@
 - [[JAVA] 접근 제한자](https://jina0625.tistory.com/entry/JAVA-%EC%A0%91%EA%B7%BC-%EC%A0%9C%ED%95%9C%EC%9E%90) - 2025-07-07
 
 
-_Last updated: 2025-08-28 15:12:36_
+_Last updated: 2025-08-29 15:10:33_
 
 <!-- force update line -->
