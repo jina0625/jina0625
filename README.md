@@ -2,6 +2,7 @@
 여기에 간단한 자기소개를 작성할 수 있어요.
 
 ## 📝 최근 블로그 글
+- [[방송 통신 대학교_컴퓨터과학과] UNIX시스템_ 리눅스 소개](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1-%ED%86%B5%EC%8B%A0-%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-UNIX%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%86%8C%EA%B0%9C) - 2025-09-09
 - [[Java] 컬렉션 프레임워크 인터페이스](https://jina0625.tistory.com/entry/Java-%EC%BB%AC%EB%A0%89%EC%85%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) - 2025-08-18
 - [[프로그래머스 _ 코딩 기초 트레이닝] JAVA _ 문자열 붙여서 출력하기](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-JAVA-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B6%99%EC%97%AC%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) - 2025-07-22
 - [[프로그래머스 _ 코딩 기초 트레이닝] JAVA _ 덧셈식 출력하기](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-JAVA-%EB%8D%A7%EC%85%88%EC%8B%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) - 2025-07-22
@@ -11,9 +12,8 @@
 - [[프로그래머스 _ 코딩 기초 트레이닝] JAVA a와 b 출력하기](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-JAVA-a%EC%99%80-b-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) - 2025-07-21
 - [[프로그래머스 _ 코딩 기초 트레이닝] JAVA 문자열 출력하기](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%94%A9-%EA%B8%B0%EC%B4%88-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-JAVA-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) - 2025-07-21
 - [[JAVA] 추상 클래스 (abstract class) &amp;  인터페이스 (interface)](https://jina0625.tistory.com/entry/JAVA-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4-abstract-class-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-interface) - 2025-07-14
-- [[JAVA] 접근 제한자](https://jina0625.tistory.com/entry/JAVA-%EC%A0%91%EA%B7%BC-%EC%A0%9C%ED%95%9C%EC%9E%90) - 2025-07-07
 
 
-_Last updated: 2025-09-08 15:12:04_
+_Last updated: 2025-09-09 15:13:31_
 
 <!-- force update line -->
