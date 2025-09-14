@@ -14,6 +14,6 @@
 - [[JAVA] 추상 클래스 (abstract class) &amp;  인터페이스 (interface)](https://jina0625.tistory.com/entry/JAVA-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4-abstract-class-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4-interface) - 2025-07-14
 
 
-_Last updated: 2025-09-13 15:09:27_
+_Last updated: 2025-09-14 15:09:55_
 
 <!-- force update line -->
