@@ -14,6 +14,6 @@
 - [[방송 통신 대학교_컴퓨터과학과] UNIX시스템_ 리눅스 소개](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1-%ED%86%B5%EC%8B%A0-%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-UNIX%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%86%8C%EA%B0%9C) - 2025-09-09
 
 
-_Last updated: 2025-11-11 15:14:01_
+_Last updated: 2025-11-12 15:14:33_
 
 <!-- force update line -->
