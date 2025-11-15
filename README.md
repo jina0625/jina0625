@@ -14,6 +14,6 @@
 - [[방송통신대학교_컴퓨터과학과] 심리학에게 묻다 _ 내 인상이 어때서?](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%8B%AC%EB%A6%AC%ED%95%99%EC%97%90%EA%B2%8C-%EB%AC%BB%EB%8B%A4-%EB%82%B4-%EC%9D%B8%EC%83%81%EC%9D%B4-%EC%96%B4%EB%95%8C%EC%84%9C) - 2025-09-18
 
 
-_Last updated: 2025-11-14 15:12:25_
+_Last updated: 2025-11-15 15:11:09_
 
 <!-- force update line -->
