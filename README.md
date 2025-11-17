@@ -2,6 +2,7 @@
 여기에 간단한 자기소개를 작성할 수 있어요.
 
 ## 📝 최근 블로그 글
+- [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 이용 모델](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9D%B4%EC%9A%A9-%EB%AA%A8%EB%8D%B8) - 2025-11-17
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 컴퓨팅 서비스](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4) - 2025-11-13
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 컴퓨팅의 특징](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98-%ED%8A%B9%EC%A7%95) - 2025-11-11
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 온프레미스와 클라우드](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C) - 2025-11-11
@@ -11,9 +12,8 @@
 - [[방송통신대학교 _ 컴퓨터과학과] 심리학에게 묻다 _ 절대 닮고 싶지 않은 나의 부모](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%8B%AC%EB%A6%AC%ED%95%99%EC%97%90%EA%B2%8C-%EB%AC%BB%EB%8B%A4-%EC%A0%88%EB%8C%80-%EB%8B%AE%EA%B3%A0-%EC%8B%B6%EC%A7%80-%EC%95%8A%EC%9D%80-%EB%82%98%EC%9D%98-%EB%B6%80%EB%AA%A8) - 2025-10-13
 - [[방송통신대학교_컴퓨터과학과] UNIX시스템 _ 셸 사용하기](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-UNIX%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%85%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) - 2025-09-25
 - [[방송통신대학교 _ 컴퓨터과학과] UNIX 시스템 _ 리눅스 설치](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-UNIX-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%A4%EC%B9%98) - 2025-09-22
-- [[방송통신대학교_컴퓨터과학과] 심리학에게 묻다 _ 내 인상이 어때서?](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%8B%AC%EB%A6%AC%ED%95%99%EC%97%90%EA%B2%8C-%EB%AC%BB%EB%8B%A4-%EB%82%B4-%EC%9D%B8%EC%83%81%EC%9D%B4-%EC%96%B4%EB%95%8C%EC%84%9C) - 2025-09-18
 
 
-_Last updated: 2025-11-16 15:10:58_
+_Last updated: 2025-11-17 15:14:52_
 
 <!-- force update line -->
