@@ -14,6 +14,6 @@
 - [[방송통신대학교_컴퓨터과학과] UNIX시스템 _ 셸 사용하기](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-UNIX%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%85%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) - 2025-09-25
 
 
-_Last updated: 2025-11-19 15:13:58_
+_Last updated: 2025-11-20 15:13:27_
 
 <!-- force update line -->
