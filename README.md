@@ -2,6 +2,7 @@
 여기에 간단한 자기소개를 작성할 수 있어요.
 
 ## 📝 최근 블로그 글
+- [[방송통신대학교 _ 컴퓨터과학과] C프로그래밍 _ 입출력 함수와 연산자(2)](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%95%A8%EC%88%98%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%902) - 2025-11-26
 - [[방송통신대학교 _ 컴퓨터과학과] C프로그래밍 _ 입출력 함수와 연산자(1)](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EC%B6%9C%EB%A0%A5-%ED%95%A8%EC%88%98%EC%99%80-%EC%97%B0%EC%82%B0%EC%9E%901) - 2025-11-24
 - [[프로그래머스] 홀짝에 따라 다른 값 반환하기](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%99%80%EC%A7%9D%EC%97%90-%EB%94%B0%EB%9D%BC-%EB%8B%A4%EB%A5%B8-%EA%B0%92-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) - 2025-11-24
 - [[방송통신대학교 _ 컴퓨터과학과] C프로그래밍 _ 자료형과 선행처리기](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EC%84%A0%ED%96%89%EC%B2%98%EB%A6%AC%EA%B8%B0) - 2025-11-24
@@ -11,9 +12,8 @@
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 이용 모델](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9D%B4%EC%9A%A9-%EB%AA%A8%EB%8D%B8) - 2025-11-17
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 컴퓨팅 서비스](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4) - 2025-11-13
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 컴퓨팅의 특징](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98-%ED%8A%B9%EC%A7%95) - 2025-11-11
-- [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 온프레미스와 클라우드](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4%EC%99%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C) - 2025-11-11
 
 
-_Last updated: 2025-11-25 15:14:29_
+_Last updated: 2025-11-26 15:12:16_
 
 <!-- force update line -->
