@@ -14,6 +14,6 @@
 - [[방송통신대학교 _ 컴퓨터과학과] 클라우드컴퓨팅 _ 클라우드 컴퓨팅의 특징](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%98-%ED%8A%B9%EC%A7%95) - 2025-11-11
 
 
-_Last updated: 2025-11-28 15:12:42_
+_Last updated: 2025-11-29 15:11:45_
 
 <!-- force update line -->
