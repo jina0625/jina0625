@@ -14,6 +14,6 @@
 - [[방송통신대학교 _ 컴퓨터과학과] C프로그래밍 _ 배열과 포인터(3)](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B03) - 2025-12-02
 
 
-_Last updated: 2025-12-08 15:14:36_
+_Last updated: 2025-12-09 15:15:37_
 
 <!-- force update line -->
