@@ -14,6 +14,6 @@
 - [[방송통신대학교 _ 컴퓨터과학과] C 프로그래밍 _ 파일처리 함수](https://jina0625.tistory.com/entry/%EB%B0%A9%EC%86%A1%ED%86%B5%EC%8B%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC-C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%BC%EC%B2%98%EB%A6%AC-%ED%95%A8%EC%88%98) - 2025-12-03
 
 
-_Last updated: 2026-01-11 15:12:52_
+_Last updated: 2026-01-12 15:17:48_
 
 <!-- force update line -->
