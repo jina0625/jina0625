@@ -14,6 +14,6 @@
 - [프로그래머스 JAVA 양꼬치 문제 풀이](https://jina0625.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-JAVA-%EC%96%91%EA%BC%AC%EC%B9%98) - 2025-12-21
 
 
-_Last updated: 2026-01-24 15:12:42_
+_Last updated: 2026-01-25 15:13:02_
 
 <!-- force update line -->
