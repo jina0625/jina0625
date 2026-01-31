@@ -14,6 +14,6 @@
 - [정보처리기사 실기 C언어 제어문 정리](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-C%EC%96%B8%EC%96%B4-%EC%A0%9C%EC%96%B4%EB%AC%B8-%EC%A0%95%EB%A6%AC) - 2026-01-15
 
 
-_Last updated: 2026-01-30 15:25:51_
+_Last updated: 2026-01-31 15:15:02_
 
 <!-- force update line -->
