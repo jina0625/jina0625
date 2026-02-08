@@ -14,6 +14,6 @@
 - [C언어 배열과 포인터 관계 정리](https://jina0625.tistory.com/entry/C%EC%96%B8%EC%96%B4-%EB%B0%B0%EC%97%B4%EA%B3%BC-%ED%8F%AC%EC%9D%B8%ED%84%B0-%EA%B4%80%EA%B3%84-%EC%A0%95%EB%A6%AC) - 2026-02-02
 
 
-_Last updated: 2026-02-07 15:16:46_
+_Last updated: 2026-02-08 15:18:01_
 
 <!-- force update line -->
