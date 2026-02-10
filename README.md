@@ -14,6 +14,6 @@
 - [정보처리기사 실기 대비 소프트웨어 공학 개념과 3R(역공학, 재공학, 재사용) 핵심 정리](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EB%8C%80%EB%B9%84-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99-%EA%B0%9C%EB%85%90%EA%B3%BC-3R%EC%97%AD%EA%B3%B5%ED%95%99-%EC%9E%AC%EA%B3%B5%ED%95%99-%EC%9E%AC%EC%82%AC%EC%9A%A9-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC) - 2026-02-03
 
 
-_Last updated: 2026-02-09 15:46:18_
+_Last updated: 2026-02-10 15:58:34_
 
 <!-- force update line -->
