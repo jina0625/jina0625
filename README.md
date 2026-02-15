@@ -14,6 +14,6 @@
 - [Java 생성자(Constructor) 완벽 정](https://jina0625.tistory.com/entry/Java-%EC%83%9D%EC%84%B1%EC%9E%90Constructor-%EC%99%84%EB%B2%BD-%EC%A0%95) - 2026-02-11
 
 
-_Last updated: 2026-02-14 15:17:24_
+_Last updated: 2026-02-15 15:17:42_
 
 <!-- force update line -->
