@@ -14,6 +14,6 @@
 - [정보처리기사 UI&middot;UX 완벽 정리 | 유형&middot;설계원칙&middot;요구사항&middot;설계도구 총정리 (기출 포함)](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-UI%C2%B7UX-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%9C%A0%ED%98%95%C2%B7%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99%C2%B7%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%C2%B7%EC%84%A4%EA%B3%84%EB%8F%84%EA%B5%AC-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EA%B8%B0%EC%B6%9C-%ED%8F%AC%ED%95%A8) - 2026-02-12
 
 
-_Last updated: 2026-02-23 15:38:41_
+_Last updated: 2026-02-24 15:48:45_
 
 <!-- force update line -->
