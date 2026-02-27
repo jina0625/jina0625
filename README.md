@@ -2,6 +2,8 @@
 여기에 간단한 자기소개를 작성할 수 있어요.
 
 ## 📝 최근 블로그 글
+- [JAVA 예외처리 완벽 정리 | try-catch-finally, throws, 주요 예외 총정리](https://jina0625.tistory.com/entry/JAVA-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-try-catch-finally-throws-%EC%A3%BC%EC%9A%94-%EC%98%88%EC%99%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC) - 2026-02-27
+- [JAVA static 메서드 &amp; static 블록 완벽 정리 | 실행 순서까지 한 번에 정리](https://jina0625.tistory.com/entry/JAVA-static-%EB%A9%94%EC%84%9C%EB%93%9C-static-%EB%B8%94%EB%A1%9D-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%8B%A4%ED%96%89-%EC%88%9C%EC%84%9C%EA%B9%8C%EC%A7%80-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%A0%95%EB%A6%AC) - 2026-02-27
 - [JAVA static 변수 완벽 정리 | 특징, 메모리 구조, 공유 개념](https://jina0625.tistory.com/entry/JAVA-static-%EB%B3%80%EC%88%98-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%ED%8A%B9%EC%A7%95-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EA%B3%B5%EC%9C%A0-%EA%B0%9C%EB%85%90) - 2026-02-25
 - [JAVA 변수 유효범위 완벽 정리 | 지역, 인스턴스, 클래스 변수 + 상속 시 변수 은닉 핵심 정리](https://jina0625.tistory.com/entry/JAVA-%EB%B3%80%EC%88%98-%EC%9C%A0%ED%9A%A8%EB%B2%94%EC%9C%84-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EC%A7%80%EC%97%AD-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%B3%80%EC%88%98-%EC%83%81%EC%86%8D-%EC%8B%9C-%EB%B3%80%EC%88%98-%EC%9D%80%EB%8B%89-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC) - 2026-02-25
 - [정보처리기사 실기 대비 내외부 모듈 연계 방식 총정리 ㅣ EAI, ESB, AJAX, SOAP, REST 기출 완벽 정리](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EB%8C%80%EB%B9%84-%EB%82%B4%EC%99%B8%EB%B6%80-%EB%AA%A8%EB%93%88-%EC%97%B0%EA%B3%84-%EB%B0%A9%EC%8B%9D-%EC%B4%9D%EC%A0%95%EB%A6%AC-%E3%85%A3-EAI-ESB-AJAX-SOAP-REST-%EA%B8%B0%EC%B6%9C-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC) - 2026-02-25
@@ -10,10 +12,8 @@
 - [정보처리기사 실기 대비 단위 모듈 구현 핵심 정리 | 결합도, 응집도, 팬인, 팬아웃 총정리 (기출 중심)](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EB%8C%80%EB%B9%84-%EB%8B%A8%EC%9C%84-%EB%AA%A8%EB%93%88-%EA%B5%AC%ED%98%84-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC-%EA%B2%B0%ED%95%A9%EB%8F%84-%EC%9D%91%EC%A7%91%EB%8F%84-%ED%8C%AC%EC%9D%B8-%ED%8C%AC%EC%95%84%EC%9B%83-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EA%B8%B0%EC%B6%9C-%EC%A4%91%EC%8B%AC) - 2026-02-23
 - [정보처리기사 실기 대비 서버 환경 구축 &amp; 형상 관리 완벽 정리 | Git, JVM, WAS 핵심 총정리](https://jina0625.tistory.com/entry/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%EB%8C%80%EB%B9%84-%EC%84%9C%EB%B2%84-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95-%ED%98%95%EC%83%81-%EA%B4%80%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-Git-JVM-WAS-%ED%95%B5%EC%8B%AC-%EC%B4%9D%EC%A0%95%EB%A6%AC) - 2026-02-23
 - [JAVA 하이딩(Hiding) 완벽 정리 | static 메서드와 오버라이딩 차이](https://jina0625.tistory.com/entry/JAVA-%ED%95%98%EC%9D%B4%EB%94%A9Hiding-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-static-%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%B0%A8%EC%9D%B4) - 2026-02-22
-- [JAVA 오버라이딩 (Overriding) 완벽 정리 | 다형성과 동적 바인딩 핵심 이해](https://jina0625.tistory.com/entry/JAVA-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9-Overriding-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EB%8B%A4%ED%98%95%EC%84%B1%EA%B3%BC-%EB%8F%99%EC%A0%81-%EB%B0%94%EC%9D%B8%EB%94%A9-%ED%95%B5%EC%8B%AC-%EC%9D%B4%ED%95%B4) - 2026-02-22
-- [JAVA 오버로딩 (Overloading) 완벽 정리 | 객체지향 핵심 개념](https://jina0625.tistory.com/entry/JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9-Overloading-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90) - 2026-02-22
 
 
-_Last updated: 2026-02-26 15:44:32_
+_Last updated: 2026-02-27 15:31:08_
 
 <!-- force update line -->
